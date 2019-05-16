@@ -1,0 +1,18 @@
+{
+  "name": "ladbrokes-coral",
+  "version": "1.0.0",
+  "description": "You may use any programming language you are comfortable with, the solution given is\r not restricted to any specific language. Certain sections have been marked as optional, \r and do not require completion.",
+  "main": "app.js",
+  "dependencies": {
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test":  "mocha ./spec/*.spec.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
