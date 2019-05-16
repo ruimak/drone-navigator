@@ -5,7 +5,7 @@
 First of all, you need to clone this repo into your local machine, using:
 
 ```
-git clone https://github.com/ruimak/thegig.git
+git clone https://github.com/ruimak/drone-navigator.git
 ```
 
 If you have all the dependencies installed and you want to see the functions running, comment in the line 3 and 125.
